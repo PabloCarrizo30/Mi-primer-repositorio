@@ -8,5 +8,3 @@ Si no tengo repositorio remoto... 5. Creamos el repositorio en github 6. Seguimo
 Si tengo repositorio y ya tengo subido mi proyecto ahi... 5. git push
 
 # Mi-primer-repositorio
-# Mi-primer-repositorio
-# Mi-primer-repositorio
