@@ -8,3 +8,14 @@ Si no tengo repositorio remoto... 5. Creamos el repositorio en github 6. Seguimo
 Si tengo repositorio y ya tengo subido mi proyecto ahi... 5. git push
 
 # Mi-primer-repositorio
+
+# Me gusta mas esta guia
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+
+git push -u origin master
