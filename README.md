@@ -9,7 +9,8 @@ Si tengo repositorio y ya tengo subido mi proyecto ahi... 5. git push
 
 # Mi-primer-repositorio
 
-# Me gusta mas esta guia
+# Me gusta mas esta guía
+
 git init
 
 git add .
